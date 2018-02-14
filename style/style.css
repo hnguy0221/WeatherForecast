@@ -1,0 +1,21 @@
+td, th { /* selector for td and th elements to center different charts on the screen */
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group{
+    margin: 20px 0px; /*space between the address bar and search bar*/
+}
+
+.btn {
+    margin: 20px 0px 0px;
+}
+
+svg { /*make size of the chart the same*/
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div { /*size the map. find first td inside of each row and also find first td and its child div which google map*/
+    height: 200px;
+    width: 250px;
+}
