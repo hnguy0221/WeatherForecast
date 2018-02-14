@@ -6,7 +6,7 @@ Weather Forecast application is a web application that uses the Dark Sky API to 
 * HTML, CSS, JavaScript, React, React with Redux, and Node.js
 
 ### Getting Started
-* git clone https://github.com/hnguy0221/DarkSkyWeather.git
-* cd DarkSkyWeather
+* git clone https://github.com/hnguy0221/WeatherForecast.git
+* cd WeatherForecast
 * npm install
 * npm start
